@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: mAI wLog
-description: A personal blog recording my AI/ML learning progress.
+description: A personal blog that (I hope) reflects my AI/ML learning progress.
 github_username: nourisachi
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "aiblog"
